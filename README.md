@@ -1,6 +1,9 @@
 # plot_tool_py
 A for plotting and efficitenly examining 2D and 3D functions.
 
+# Screenshot
+<img src="plot_tool_py_1.png" width="450">
+
 # Commands
   * C
   * zo,zi,zr, z ...
